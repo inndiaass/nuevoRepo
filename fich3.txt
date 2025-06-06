@@ -1,3 +1,5 @@
 tercer fichero desde rama 2
 nueva modificacion desde gitkraken del fich 3
 fich3 nuevamente modificado
+modificandolo para tener conflictos y resolverlo
+
